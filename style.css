@@ -149,8 +149,8 @@ img {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url(../images/dante.png); /* Image URL */
-  background-size: cover; /* Adjust as needed */
-  background-position: center; /* Adjust as needed */
-  opacity: 0.8; /* Adjust the opacity to control the image overlay */
+  background-image: url(dante.png);
+  background-size: cover; 
+  background-position: center; 
+  opacity: 0.8;
 }
